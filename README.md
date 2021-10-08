@@ -1,2 +1,2 @@
 # Kelas-Dasar-PSDS
-Mater dan Tugas Kelas Dasar
+Materi dan Tugas Kelas Dasar
